@@ -14,5 +14,8 @@ Feedback:
 Here is my result of the course:
 ![Alt matn](./course2.png)
 
-Feedback on learntypescript.online
-learntypescript.online is a well-structured and interactive platform for learning TypeScript. It provides a hands-on approach, making it ideal for beginners and experienced JavaScript developers looking to transition to TypeScript.
+###
+
+## Feedback on learntypescript.online
+
+- learntypescript.online is a well-structured and interactive platform for learning TypeScript. It provides a hands-on approach, making it ideal for beginners and experienced JavaScript developers looking to transition to TypeScript.
